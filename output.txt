@@ -1,0 +1,8 @@
+py"
+Mean Absolute Error: 8141.03
+R-squared: 0.46
+Enter area: 200
+Enter number of bedrooms: 3
+Enter number of bathrooms: 2
+Predicted house price: 334102.56
+PS C:\Users\lenovo> 
